@@ -1,5 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
+
 import javax.swing.*;
 
 public class Project extends JFrame implements ActionListener{
@@ -21,7 +22,8 @@ public class Project extends JFrame implements ActionListener{
         JMenuItem m1 = new JMenuItem("New Customer");
         JMenuItem m2 = new JMenuItem("Customer Details");
         JMenuItem m3 = new JMenuItem("Deposit Details");
-        master.setForeground(Color.BLUE);
+        // master.setForeground(Color.BLUE);
+        master.setForeground(Color.GREEN);
 
 
         /* ---- Customer Details ---- */
