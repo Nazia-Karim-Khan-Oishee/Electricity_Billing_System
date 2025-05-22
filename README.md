@@ -1,6 +1,6 @@
 # Electricity Billing System
 This is a GUI made using Java Swing.
-It lets User perform following operations:-
+It lets User perform multiple operations like:-:-
 
 
 1- User can Create his Personal login for security purposes.
